@@ -1,0 +1,37 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\dsecu\\Dropbox\\SHARE\\ISTER 2024\\INTEGRACIN SOFTWARE\\Semana 6\\Tarea 6\\Calculadora00\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{3BBDB4BD-1185-4873-9554-4D9FB4560679}|Calculadora00.csproj|c:\\users\\dsecu\\dropbox\\share\\ister 2024\\integracin software\\semana 6\\tarea 6\\calculadora00\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3BBDB4BD-1185-4873-9554-4D9FB4560679}|Calculadora00.csproj|solutionrelative:program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\dsecu\\Dropbox\\SHARE\\ISTER 2024\\INTEGRACIN SOFTWARE\\Semana 6\\Tarea 6\\Calculadora00\\Program.cs",
+              "RelativeDocumentMoniker": "Program.cs",
+              "ToolTip": "C:\\Users\\dsecu\\Dropbox\\SHARE\\ISTER 2024\\INTEGRACIN SOFTWARE\\Semana 6\\Tarea 6\\Calculadora00\\Program.cs",
+              "RelativeToolTip": "Program.cs",
+              "ViewState": "AQIAABIAAAAAAAAAAAAowCkAAAAeAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-03T21:42:42.053Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,12 @@
+{
+  "version": 2,
+  "dgSpecHash": "k7Xj0XlrXvA=",
+  "success": true,
+  "projectFilePath": "C:\\Users\\dsecu\\Dropbox\\SHARE\\ISTER 2024\\INTEGRACIN SOFTWARE\\Semana 6\\Tarea 6\\Calculadora00\\Calculadora00.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\dsecu\\.nuget\\packages\\microsoft.dotnet.ilcompiler\\8.0.7\\microsoft.dotnet.ilcompiler.8.0.7.nupkg.sha512",
+    "C:\\Users\\dsecu\\.nuget\\packages\\microsoft.net.illink.tasks\\8.0.7\\microsoft.net.illink.tasks.8.0.7.nupkg.sha512",
+    "C:\\Users\\dsecu\\.nuget\\packages\\runtime.win-x64.microsoft.dotnet.ilcompiler\\8.0.7\\runtime.win-x64.microsoft.dotnet.ilcompiler.8.0.7.nupkg.sha512"
+  ],
+  "logs": []
+}

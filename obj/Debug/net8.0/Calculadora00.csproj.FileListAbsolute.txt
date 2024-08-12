@@ -1,0 +1,63 @@
+C:\Users\Usuario\Dropbox\SHARE\ISTER 2024\INTEGRACIN SOFTWARE\Semana 5\Calculadora00\bin\Debug\net8.0\Calculadora00.exe
+C:\Users\Usuario\Dropbox\SHARE\ISTER 2024\INTEGRACIN SOFTWARE\Semana 5\Calculadora00\bin\Debug\net8.0\Calculadora00.deps.json
+C:\Users\Usuario\Dropbox\SHARE\ISTER 2024\INTEGRACIN SOFTWARE\Semana 5\Calculadora00\bin\Debug\net8.0\Calculadora00.runtimeconfig.json
+C:\Users\Usuario\Dropbox\SHARE\ISTER 2024\INTEGRACIN SOFTWARE\Semana 5\Calculadora00\bin\Debug\net8.0\Calculadora00.dll
+C:\Users\Usuario\Dropbox\SHARE\ISTER 2024\INTEGRACIN SOFTWARE\Semana 5\Calculadora00\bin\Debug\net8.0\Calculadora00.pdb
+C:\Users\Usuario\Dropbox\SHARE\ISTER 2024\INTEGRACIN SOFTWARE\Semana 5\Calculadora00\obj\Debug\net8.0\Calculadora00.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Usuario\Dropbox\SHARE\ISTER 2024\INTEGRACIN SOFTWARE\Semana 5\Calculadora00\obj\Debug\net8.0\Calculadora00.AssemblyInfoInputs.cache
+C:\Users\Usuario\Dropbox\SHARE\ISTER 2024\INTEGRACIN SOFTWARE\Semana 5\Calculadora00\obj\Debug\net8.0\Calculadora00.AssemblyInfo.cs
+C:\Users\Usuario\Dropbox\SHARE\ISTER 2024\INTEGRACIN SOFTWARE\Semana 5\Calculadora00\obj\Debug\net8.0\Calculadora00.csproj.CoreCompileInputs.cache
+C:\Users\Usuario\Dropbox\SHARE\ISTER 2024\INTEGRACIN SOFTWARE\Semana 5\Calculadora00\obj\Debug\net8.0\Calculadora00.dll
+C:\Users\Usuario\Dropbox\SHARE\ISTER 2024\INTEGRACIN SOFTWARE\Semana 5\Calculadora00\obj\Debug\net8.0\refint\Calculadora00.dll
+C:\Users\Usuario\Dropbox\SHARE\ISTER 2024\INTEGRACIN SOFTWARE\Semana 5\Calculadora00\obj\Debug\net8.0\Calculadora00.pdb
+C:\Users\Usuario\Dropbox\SHARE\ISTER 2024\INTEGRACIN SOFTWARE\Semana 5\Calculadora00\obj\Debug\net8.0\Calculadora00.genruntimeconfig.cache
+C:\Users\Usuario\Dropbox\SHARE\ISTER 2024\INTEGRACIN SOFTWARE\Semana 5\Calculadora00\obj\Debug\net8.0\ref\Calculadora00.dll
+C:\Users\dsecu\Dropbox\SHARE\ISTER 2024\INTEGRACIN SOFTWARE\Semana 5\Calculadora00\bin\Debug\net8.0\Calculadora00.exe
+C:\Users\dsecu\Dropbox\SHARE\ISTER 2024\INTEGRACIN SOFTWARE\Semana 5\Calculadora00\bin\Debug\net8.0\Calculadora00.deps.json
+C:\Users\dsecu\Dropbox\SHARE\ISTER 2024\INTEGRACIN SOFTWARE\Semana 5\Calculadora00\bin\Debug\net8.0\Calculadora00.runtimeconfig.json
+C:\Users\dsecu\Dropbox\SHARE\ISTER 2024\INTEGRACIN SOFTWARE\Semana 5\Calculadora00\bin\Debug\net8.0\Calculadora00.dll
+C:\Users\dsecu\Dropbox\SHARE\ISTER 2024\INTEGRACIN SOFTWARE\Semana 5\Calculadora00\bin\Debug\net8.0\Calculadora00.pdb
+C:\Users\dsecu\Dropbox\SHARE\ISTER 2024\INTEGRACIN SOFTWARE\Semana 5\Calculadora00\obj\Debug\net8.0\Calculadora00.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\dsecu\Dropbox\SHARE\ISTER 2024\INTEGRACIN SOFTWARE\Semana 5\Calculadora00\obj\Debug\net8.0\Calculadora00.AssemblyInfoInputs.cache
+C:\Users\dsecu\Dropbox\SHARE\ISTER 2024\INTEGRACIN SOFTWARE\Semana 5\Calculadora00\obj\Debug\net8.0\Calculadora00.AssemblyInfo.cs
+C:\Users\dsecu\Dropbox\SHARE\ISTER 2024\INTEGRACIN SOFTWARE\Semana 5\Calculadora00\obj\Debug\net8.0\Calculadora00.csproj.CoreCompileInputs.cache
+C:\Users\dsecu\Dropbox\SHARE\ISTER 2024\INTEGRACIN SOFTWARE\Semana 5\Calculadora00\obj\Debug\net8.0\Calculadora00.dll
+C:\Users\dsecu\Dropbox\SHARE\ISTER 2024\INTEGRACIN SOFTWARE\Semana 5\Calculadora00\obj\Debug\net8.0\refint\Calculadora00.dll
+C:\Users\dsecu\Dropbox\SHARE\ISTER 2024\INTEGRACIN SOFTWARE\Semana 5\Calculadora00\obj\Debug\net8.0\Calculadora00.pdb
+C:\Users\dsecu\Dropbox\SHARE\ISTER 2024\INTEGRACIN SOFTWARE\Semana 5\Calculadora00\obj\Debug\net8.0\Calculadora00.genruntimeconfig.cache
+C:\Users\dsecu\Dropbox\SHARE\ISTER 2024\INTEGRACIN SOFTWARE\Semana 5\Calculadora00\obj\Debug\net8.0\ref\Calculadora00.dll
+C:\Users\dsecu\Dropbox\SHARE\ISTER 2024\INTEGRACIN SOFTWARE\Semana 6\Calculadora01\obj\Debug\net8.0\Calculadora00.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\dsecu\Dropbox\SHARE\ISTER 2024\INTEGRACIN SOFTWARE\Semana 6\Calculadora01\obj\Debug\net8.0\Calculadora00.AssemblyInfoInputs.cache
+C:\Users\dsecu\Dropbox\SHARE\ISTER 2024\INTEGRACIN SOFTWARE\Semana 6\Calculadora01\obj\Debug\net8.0\Calculadora00.AssemblyInfo.cs
+C:\Users\dsecu\Dropbox\SHARE\ISTER 2024\INTEGRACIN SOFTWARE\Semana 6\Calculadora01\obj\Debug\net8.0\Calculadora00.csproj.CoreCompileInputs.cache
+C:\Users\dsecu\Dropbox\SHARE\ISTER 2024\INTEGRACIN SOFTWARE\Semana 6\Calculadora01\obj\Debug\net8.0\Calculadora00.dll
+C:\Users\dsecu\Dropbox\SHARE\ISTER 2024\INTEGRACIN SOFTWARE\Semana 6\Calculadora01\obj\Debug\net8.0\refint\Calculadora00.dll
+C:\Users\dsecu\Dropbox\SHARE\ISTER 2024\INTEGRACIN SOFTWARE\Semana 6\Calculadora01\obj\Debug\net8.0\Calculadora00.pdb
+C:\Users\dsecu\Dropbox\SHARE\ISTER 2024\INTEGRACIN SOFTWARE\Semana 6\Calculadora00\bin\Debug\net8.0\Calculadora00.exe
+C:\Users\dsecu\Dropbox\SHARE\ISTER 2024\INTEGRACIN SOFTWARE\Semana 6\Calculadora00\bin\Debug\net8.0\Calculadora00.deps.json
+C:\Users\dsecu\Dropbox\SHARE\ISTER 2024\INTEGRACIN SOFTWARE\Semana 6\Calculadora00\bin\Debug\net8.0\Calculadora00.runtimeconfig.json
+C:\Users\dsecu\Dropbox\SHARE\ISTER 2024\INTEGRACIN SOFTWARE\Semana 6\Calculadora00\bin\Debug\net8.0\Calculadora00.dll
+C:\Users\dsecu\Dropbox\SHARE\ISTER 2024\INTEGRACIN SOFTWARE\Semana 6\Calculadora00\bin\Debug\net8.0\Calculadora00.pdb
+C:\Users\dsecu\Dropbox\SHARE\ISTER 2024\INTEGRACIN SOFTWARE\Semana 6\Calculadora00\obj\Debug\net8.0\Calculadora00.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\dsecu\Dropbox\SHARE\ISTER 2024\INTEGRACIN SOFTWARE\Semana 6\Calculadora00\obj\Debug\net8.0\Calculadora00.AssemblyInfoInputs.cache
+C:\Users\dsecu\Dropbox\SHARE\ISTER 2024\INTEGRACIN SOFTWARE\Semana 6\Calculadora00\obj\Debug\net8.0\Calculadora00.AssemblyInfo.cs
+C:\Users\dsecu\Dropbox\SHARE\ISTER 2024\INTEGRACIN SOFTWARE\Semana 6\Calculadora00\obj\Debug\net8.0\Calculadora00.csproj.CoreCompileInputs.cache
+C:\Users\dsecu\Dropbox\SHARE\ISTER 2024\INTEGRACIN SOFTWARE\Semana 6\Calculadora00\obj\Debug\net8.0\Calculadora00.dll
+C:\Users\dsecu\Dropbox\SHARE\ISTER 2024\INTEGRACIN SOFTWARE\Semana 6\Calculadora00\obj\Debug\net8.0\refint\Calculadora00.dll
+C:\Users\dsecu\Dropbox\SHARE\ISTER 2024\INTEGRACIN SOFTWARE\Semana 6\Calculadora00\obj\Debug\net8.0\Calculadora00.pdb
+C:\Users\dsecu\Dropbox\SHARE\ISTER 2024\INTEGRACIN SOFTWARE\Semana 6\Calculadora00\obj\Debug\net8.0\Calculadora00.genruntimeconfig.cache
+C:\Users\dsecu\Dropbox\SHARE\ISTER 2024\INTEGRACIN SOFTWARE\Semana 6\Calculadora00\obj\Debug\net8.0\ref\Calculadora00.dll
+C:\Users\dsecu\Dropbox\SHARE\ISTER 2024\INTEGRACIN SOFTWARE\Semana 6\Tarea 6\Calculadora00\bin\Debug\net8.0\Calculadora00.exe
+C:\Users\dsecu\Dropbox\SHARE\ISTER 2024\INTEGRACIN SOFTWARE\Semana 6\Tarea 6\Calculadora00\bin\Debug\net8.0\Calculadora00.deps.json
+C:\Users\dsecu\Dropbox\SHARE\ISTER 2024\INTEGRACIN SOFTWARE\Semana 6\Tarea 6\Calculadora00\bin\Debug\net8.0\Calculadora00.runtimeconfig.json
+C:\Users\dsecu\Dropbox\SHARE\ISTER 2024\INTEGRACIN SOFTWARE\Semana 6\Tarea 6\Calculadora00\bin\Debug\net8.0\Calculadora00.dll
+C:\Users\dsecu\Dropbox\SHARE\ISTER 2024\INTEGRACIN SOFTWARE\Semana 6\Tarea 6\Calculadora00\bin\Debug\net8.0\Calculadora00.pdb
+C:\Users\dsecu\Dropbox\SHARE\ISTER 2024\INTEGRACIN SOFTWARE\Semana 6\Tarea 6\Calculadora00\obj\Debug\net8.0\Calculadora00.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\dsecu\Dropbox\SHARE\ISTER 2024\INTEGRACIN SOFTWARE\Semana 6\Tarea 6\Calculadora00\obj\Debug\net8.0\Calculadora00.AssemblyInfoInputs.cache
+C:\Users\dsecu\Dropbox\SHARE\ISTER 2024\INTEGRACIN SOFTWARE\Semana 6\Tarea 6\Calculadora00\obj\Debug\net8.0\Calculadora00.AssemblyInfo.cs
+C:\Users\dsecu\Dropbox\SHARE\ISTER 2024\INTEGRACIN SOFTWARE\Semana 6\Tarea 6\Calculadora00\obj\Debug\net8.0\Calculadora00.csproj.CoreCompileInputs.cache
+C:\Users\dsecu\Dropbox\SHARE\ISTER 2024\INTEGRACIN SOFTWARE\Semana 6\Tarea 6\Calculadora00\obj\Debug\net8.0\Calculadora00.dll
+C:\Users\dsecu\Dropbox\SHARE\ISTER 2024\INTEGRACIN SOFTWARE\Semana 6\Tarea 6\Calculadora00\obj\Debug\net8.0\refint\Calculadora00.dll
+C:\Users\dsecu\Dropbox\SHARE\ISTER 2024\INTEGRACIN SOFTWARE\Semana 6\Tarea 6\Calculadora00\obj\Debug\net8.0\Calculadora00.pdb
+C:\Users\dsecu\Dropbox\SHARE\ISTER 2024\INTEGRACIN SOFTWARE\Semana 6\Tarea 6\Calculadora00\obj\Debug\net8.0\Calculadora00.genruntimeconfig.cache
+C:\Users\dsecu\Dropbox\SHARE\ISTER 2024\INTEGRACIN SOFTWARE\Semana 6\Tarea 6\Calculadora00\obj\Debug\net8.0\ref\Calculadora00.dll
